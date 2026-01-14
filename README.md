@@ -1,16 +1,15 @@
-## Hi there 👋
+# Oi, eu sou o Charles 👋
 
-<!--
-**charlesbatista/charlesbatista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Web Full Stack com **15+ anos**, focado em **PHP, WordPress e Laravel**.  
+Construo e mantenho **sistemas web e portais**, com experiência em **integrações (REST/SOAP)**, **manutenção de legado**, **performance** e **deploy/infra** com **Linux, Docker e CI/CD**.
 
-Here are some ideas to get you started:
+- 💼 Full Stack (PHP/WordPress/Laravel)
+- ⚙️ Integrações, plugins, APIs e sistemas legados
+- 🚀 Performance, refatoração e entrega em times ágeis
+- 🧰 Docker, Jenkins, CI/CD, MySQL/PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Contato
+- 📧 Email: **charlesbatista@hotmail.com**
+- 🔗 LinkedIn: https://www.linkedin.com/in/charlesbatista
